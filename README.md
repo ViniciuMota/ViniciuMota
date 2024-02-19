@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vinicius-mota-pereira-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-mota-pereira-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/dev__aneio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev__aneio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dev__aneio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev__aneio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dev__aneio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev__aneio" height="30" width="40" /></a>
 </p>
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
